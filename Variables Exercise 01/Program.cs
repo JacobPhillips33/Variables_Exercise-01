@@ -41,7 +41,7 @@ namespace Variables_Exercise_01
 
             // DONE Above (declared and initialized simultaneously): Initialize each of the variables with a value
 
-            // TODO: Write out each of the variables to the Console
+            // DONE: Write out each of the variables to the Console
 
             Console.WriteLine(theString);
             Console.WriteLine(theChar);
